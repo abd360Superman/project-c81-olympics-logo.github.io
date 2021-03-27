@@ -1,0 +1,15 @@
+#header {
+    font-family: 'Tangerine', serif;
+    font-size: 48px;
+    color: red;
+}
+.body_background {
+    background-image: url("bg1.jpg");
+	background-position: center;
+	background-size: cover;
+}
+#myCanvas{
+	border-width:10px;
+	background-color:white;
+	border-style:ridge;
+}
